@@ -1,0 +1,9 @@
+id_bmi,category,bmi_(kg/m2)[c],bmi_prime[c]
+1,Severe thinness,< 16.0,< 0.64
+2,Moderate thinness,16.0 – 16.9,0.64 – 0.67
+3,Underweight,17.0 – 18.4,0.68 – 0.73
+4,Normal,18.5 – 24.9,0.74 – 0.99
+5,Overweight,25.0 – 29.9,1.00 – 1.19
+6,Obese I,30.0 – 34.9,1.20 – 1.39
+7,Obese II,35.0 – 39.9,1.40 – 1.59
+8,Obese III,≥ 40.0,≥ 1.60
