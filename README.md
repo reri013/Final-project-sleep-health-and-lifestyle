@@ -1,6 +1,8 @@
-<img width="1016" alt="Capture d’écran 2024-05-13 à 07 52 44" src="https://github.com/reri013/Final-project-sleep-health-and-lifestyle/assets/161335857/d1963916-44ef-4aca-a9f9-98e48ef6aded">
+
 
 # Sleep-Health-and-Lifestyle
+<img width="1016" alt="Capture d’écran 2024-05-13 à 07 52 44" src="https://github.com/reri013/Final-project-sleep-health-and-lifestyle/assets/161335857/d1963916-44ef-4aca-a9f9-98e48ef6aded">
+
 1. Business Use Case:
    
 Understanding the trends and impacts of healthy sleep and lifestyle habits is crucial for companies in the nutritional supplement industry to develop effective strategies for promoting overall wellness.
